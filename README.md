@@ -1,41 +1,30 @@
+# Professional biography
+I am a Senior Research Data Scientist in the Advanced Research Computing Centre (ARC) in University College London (UCL), UK.  I work primarily in research and development of AI models and systems, particularly pertaining to the Natural Language Processing (NLP) domain. I have experience in Document AI - information extraction from visual documents, and Large Language Model (LLM) applications.
 
-# Academic Pages
+I am also a Visiting Fellow at School of Computing and Communications, The Open University, UK where I collaborate with Prof. Dawei Song on quantum-inspired Information Retrieval models and work in the OpenMars project to build time-series algorithms for weather forecasting on Mars. 
 
-![pages-build-deployment](https://github.com/academicpages/academicpages.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)
+I have a background in Information Retrieval (IR) and NLP,  User Behaviour Modelling , Time-series forecasting and Deep Reinforcement Learning (DRL).  Previously, I worked as a Research Scientist at Bravura Solutions,  a leading provider of financial software solutions, with a focus on Document AI and LLMs.
 
-Academic Pages is a Github Pages template for academic websites.
+Before Bravura, I worked as a Postdoctoral fellow at  Warwick Manufacturing Group, University of Warwick, UK, focusing on DRL algorithms for complex robotic manipulation tasks and multi-agent learning. 
 
+From 2017-2020, I held the Marie Skłodowska Curie Early Stage fellowship to pursue PhD at The Open University, UK finishing in August 2020.  My doctoral research, as part of the  European Commision's Horizon 2020 QUARTZ project,  focused on modelling user behaviour in search and information interaction using the quantum mathematical framework.  Within this project, I was also been seconded twice to Queensland University of Technology, Australia and worked with Prof. Peter Bruza's Information Systems group
 
-# Getting Started
+I have a Bachelor's degree in Computer Science and a Master’s in Physics from BITS Pilani, India. After graduating, I worked for 2 years as a Software Engineer with projects including writing backend code for a vertical search engine (Stayzilla) and to perform query intent classification  and information extraction for voice search and chatbots using Deep Neural Networks (at Justdial). 
 
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Click the "Use this template" button in the top right.
-1. On the "New repository" page, enter your repository name as "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and add your content.
-1. Upload any files (like PDFs, .zip files, etc.) to the `files/` directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-1. (Optional) Use the Jupyter notebooks or python scripts in the `markdown_generator` folder to generate markdown files for publications and talks from a TSV file.
+# Research interests
+Interesed in solving real-world problems through machine learning. Particularly interested in building products based on large language models (LLMs).
 
-See more info at https://academicpages.github.io/
+# Publications
+A list of my publications can seen at Google scholar. 
 
-## Running Locally
+# Blog
+[1] Data Cleaning and Exploratory Analysis in Python and R   
 
-When you are initially working your website, it is very useful to be able to preview the changes locally before pushing them to GitHub. To work locally you will need to:
-
-1. Clone the repository and made updates as detailed above.
-1. Make sure you have ruby-dev, bundler, and nodejs installed: `sudo apt install ruby-dev ruby-bundler nodejs`
-1. Run `bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
-1. Run `jekyll serve -l -H localhost` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change.
+[2] Langchain Agents: Prompt Design for Tools Control Flow
 
 
-# Maintenance 
 
-Bug reports and feature requests to the template  should be [submitted via GitHub](https://github.com/academicpages/academicpages.github.io/issues/new/choose). For questions concerning how to style the template, please feel free to start a [new discussion on GitHub](https://github.com/academicpages/academicpages.github.io/discussions).
+## Contact Details:
+**Email**: sagaruprety@gmail.com
 
-This repository was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License (see LICENSE.md). It is currently being maintained by [Robert Zupko](https://github.com/rjzupkoii) and additional maintainers would be welcomed.
-
-## Bugfixes and enhancements
-
-If you have bugfixes and enhancements that you would like to submit as a pull request, you will need to [fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo) this repository as opposed to using it as a template. This will also allow you to [synchronize your copy](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork) of template to your fork as well.
-
-Unfortunately, one logistical issue with a template theme like Academic Pages that makes it a little tricky to get bug fixes and updates to the core theme. If you use this template and customize it, you will probably get merge conflicts if you attempt to synchronize. If you want to save your various .yml configuration files and markdown files, you can delete the repository and fork it again. Or you can manually patch.
+**LinkedIn**: ![https://www.linkedin.com/in/upretysagar/](https://www.linkedin.com/in/upretysagar/) 
